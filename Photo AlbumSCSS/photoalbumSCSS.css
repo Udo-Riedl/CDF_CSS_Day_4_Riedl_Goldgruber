@@ -1,0 +1,30 @@
+header {
+  font-family: 'Balsamiq Sans', cursive;
+  text-align: center;
+  background-color: #666699;
+  margin-bottom: 30px; }
+
+header h1 {
+  font-size: 5vw; }
+
+.container {
+  width: 80%;
+  margin: 0 auto; }
+
+img {
+  max-width: 100%; }
+
+footer {
+  background-color: #666699;
+  color: white;
+  max-width: 100%;
+  text-align: center; }
+
+@media screen and (max-width: 480px) {
+  .tablet .desktop {
+    display: none; } }
+@media screen and (min-width: 481px) and (max-width: 1200px) {
+  .desktop {
+    display: none; } }
+
+/*# sourceMappingURL=photoalbumSCSS.css.map */
